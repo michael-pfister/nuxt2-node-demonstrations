@@ -1,5 +1,10 @@
 # nuxt2-node-demonstration
 
+## Prerequisites
+
+### Install node v18.12.1 LTS
+Windows download: https://nodejs.org/dist/v18.12.1/node-v18.12.1-x64.msi
+
 ## Build Setup
 
 ```bash
